@@ -1,0 +1,6 @@
+---
+applications:
+ - name: moodSwinger
+   random-route: true
+   memory: 128M
+   command: python server.py
