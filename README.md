@@ -1,6 +1,6 @@
 ## MoodSwinger
 
-We have have seen veteran families where a person is too tired to be angry, he talks about the innocence and honor of young soldiers. Then he may suddenly cry and the heart of the family members breaks all over again. We developed this application where a family member can click a picture of the person and using the Bose soundtouch, it will play music based their emotional state without bothering them.
+We observed that in veteran families, individuals often express profound emotions — speaking of the innocence and honor of young soldiers, sometimes breaking into tears that deeply affect their loved ones. To support these moments with sensitivity, we developed an application that allows family members to discreetly capture a picture of the individual. Using Bose SoundTouch technology, the application detects the emotional state from the image and plays music tailored to their feelings, providing comfort without intruding on their experience.
 
 ## Screenshots Web Application
 
